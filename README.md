@@ -53,15 +53,16 @@ This starts a server at http://localhost:3001.
 8.Project Structure
 
 my-react-app/
-├── src/
-│   ├── components/
-│   │   ├── BookCard.js
-│   │   ├── AllBooks.js
-│   ├── App.js
-│   ├── index.js
-├── db.json
-├── package.json
-├── README.md
+
+  ├── src/
+  │   ├── components/
+  │   │   ├── BookCard.js
+  │   │   ├── AllBooks.js
+  │   ├── App.js
+  │   ├── index.js
+  ├── db.json
+  ├── package.json
+  ├── README.md
 
 
 CRUD Operations Example
