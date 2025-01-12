@@ -1,0 +1,43 @@
+.car-service h3 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #000C21;
+
+}
+
+.car-service p {
+    color: #6C757D;
+}
+
+.car-service h1 {
+    color: #1F2E4E;
+}
+
+.service {
+    display: flex;
+    justify-content: space-around !important;
+}
+
+.service h1 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.service h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.slick-dots li button:before {
+    color: #ea001e !important;
+    /* Black dots */
+    font-size: 20px !important;
+    /* Adjust dot size */
+    margin-top: 10px !important;
+
+}
+
+.slick-dots li.slick-active button:before {
+    color: #000C21 !important;
+    /* Red active dot */
+}

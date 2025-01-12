@@ -1,0 +1,58 @@
+.footer-part1 h3{
+
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+
+}
+
+.footer-part1 p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6e7684;
+}
+
+.footer-part1 button{
+    background-color: #000C21;
+    color: white;
+    border-radius: 17px !important;
+    border: 1px solid white;
+}
+
+.footer-part2 h3{
+
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+
+}
+
+.footer-part2 p{
+
+    font-size: 16px;
+    font-weight: 500;
+    color: #6e7684;
+}
+
+.footer-part3 h3{
+
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+
+}
+
+.footer-part4 h3{
+
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+}
+
+.footer-part4 h5{
+
+    font-size: 16px;
+    font-weight: 500;
+    color: #6e7684;
+
+}

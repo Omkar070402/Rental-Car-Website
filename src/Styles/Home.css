@@ -1,0 +1,120 @@
+ #nav1 {
+    background-color: #1F2E4E;
+    color: #6C757D;
+
+}
+
+#nav1 h5 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#nav1 i {
+
+    color: #ea001e;
+} 
+
+/*.card-home .card-img-top {
+
+    filter: brightness(50%);
+}
+
+.form-start h6 {
+    border: 1px solid;
+    height: 38px;
+    width: 92px;
+    background-color: white;
+    color: #6C757D;
+    text-align: justify;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+
+
+
+
+}
+
+.form-base input {
+    width: 80%;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    height: 37px;
+    margin-top: 9px;
+}
+
+.form-base {
+    display: flex;
+
+
+}
+
+ .form-card{
+    display: flex;
+    flex-direction: column;
+   
+}*/
+
+.hero-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: white;
+
+}
+
+.hero-2 h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.hero-2 h6 {
+    font-size: 16px;
+    font-weight: 400;
+}   
+
+.home-car h1{
+
+     /* font-family: "Lora", serif; */
+     font-size: 100px;
+     color : white;
+     font-weight: 600;
+     font-variant: small-caps;
+
+}
+.home-car h2{
+
+     /* font-family: "Lora", serif; */
+     font-size: 32px;
+     color : white;
+     font-weight: 700;
+     /* font-variant: small-caps; */
+
+}
+
+
+.home-car button{
+    color: white;
+    background-color: #1F2E4E;
+    transition: all 0.2s ease-in-out;
+    border-radius: 20px;
+    border: 1px solid white;
+    font-weight: bold;
+}
+
+.home-car button:hover{
+
+    background-color: #ea001e;
+    color: white;
+    border: 1px solid white;
+}
+
+.home-car span{
+    color: #ea001e;
+}
+
+marquee{
+    color: whitesmoke;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+}

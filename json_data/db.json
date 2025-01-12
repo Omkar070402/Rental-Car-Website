@@ -1,0 +1,82 @@
+{
+  "Customer_data": [
+    {
+      "name": "Omkar Seshadri",
+      "email": "omkar@gmail.com",
+      "phone": "9596351242",
+      "dob": "2024-12-18T15:08",
+      "drivinglicense": "76567898655",
+      "cartype": "SEDAN",
+      "pickuplocation": "deccan Gymkhana",
+      "pickupdate": "2024-12-18T15:08",
+      "dropofflocation": "lohegaon",
+      "dropoffdate": "2024-12-18T15:08",
+      "insurance": "Full Coverage",
+      "gps": "true",
+      "childseat": "true",
+      "additionaldriver": "Yes",
+      "comments": "No",
+      "id": 1
+    },
+    {
+      "name": "Krishna Ram",
+      "email": "ram@gmail.com",
+      "phone": "6383581740",
+      "dob": "2024-12-19T17:22",
+      "drivinglicense": "76567898655",
+      "cartype": "SUV",
+      "pickuplocation": "deccan",
+      "pickupdate": "2024-12-19T17:22",
+      "dropofflocation": "Mumbai",
+      "dropoffdate": "2024-12-19T17:22",
+      "insurance": "Basic",
+      "gps": "false",
+      "childseat": "false",
+      "additionaldriver": "",
+      "comments": "",
+      "id": 2
+    }
+  ],
+  "Signup_data": [
+    {
+      "name": "Omkar",
+      "email": "omkar@gmail.com",
+      "phone": "8486231155",
+      "dob": "12-03-2002",
+      "pass": "12345",
+      "id": 1
+    },
+    {
+      "name": "Krishna",
+      "email": "rajeswariseshadri02@gmail.com",
+      "phone": "9596351242",
+      "dob": "12-03-2002",
+      "pass": "67890",
+      "id": 2
+    },
+    {
+      "name": "pratham",
+      "email": "pratham@gmail.com",
+      "phone": "6383581740",
+      "dob": "12-03-2002",
+      "pass": "12345",
+      "id": 3
+    },
+    {
+      "name": "keshav",
+      "email": "keshav@gmail.com",
+      "phone": "9596351242",
+      "dob": "12-03-2002",
+      "pass": "12345",
+      "id": 4
+    },
+    {
+      "name": "pratik",
+      "email": "pratik@gmail.com",
+      "phone": "9596351242",
+      "dob": "12-03-2002",
+      "pass": "12345",
+      "id": 5
+    }
+  ]
+}

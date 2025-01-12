@@ -1,0 +1,15 @@
+.blog{
+    display: flex;
+    justify-content: space-around !important;
+    align-items: center;
+}
+
+.blog h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.blog h3{
+    font-size: 24px;
+    font-weight: 500;
+}

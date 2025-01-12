@@ -1,0 +1,52 @@
+.customer-data h6 {
+
+    font-weight: 400;
+    font-family: "Montserrat", serif;
+    font-style: normal;
+    font-size: 16px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    
+}
+
+.customer-card {
+    overflow: hidden ;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .customer-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-offcanvas {
+    position: absolute;
+    top: 0;
+    right: -100%; /* Initially hidden */
+    width: 30%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+    color: black !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    transition: right 0.3s ease-in-out;
+    
+  }
+  
+  .customer-card:hover .card-offcanvas {
+    right: 0; /* Slides in on hover */
+  }
+  
+  .card-offcanvas button {
+    margin: 5px 0;
+  }
+
+  .card-img {
+    object-fit: cover;
+    height: 100% !important; /* Card height */
+    width: 100%;
+  }
+  
